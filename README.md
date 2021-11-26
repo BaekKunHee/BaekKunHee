@@ -4,9 +4,9 @@
 <a href="https://medium.com/@bms6168"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>&nbsp;
 <a href="https://www.instagram.com/_han_baek/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br/>
 
-Hello there!👋 I'm Sofeware Developer using React and TypeScript.👨‍💻<br/>
+Hello there!👋 I'm Software Developer using React and TypeScript.👨‍💻<br/>
 
-Absolutely I love learn all of IT. Especially interested in blockchain and AI tech these days!✨<br/>
+Absolutely I love to discover all of IT. Especially interested in blockchain and AI tech these days!✨<br/>
 
 I hope the service I develop will help the world.🌏
 Thank you for coming here.🙏
