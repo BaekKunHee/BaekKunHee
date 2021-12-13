@@ -2,7 +2,6 @@
 <a href="https://www.linkedin.com/in/han-baek-6724a7217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
 <a href="https://periwinkle-spade-c8b.notion.site/HAN-BAEK-21c7a57f96cb414fb69347aeeeb06f72"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
 <a href="https://medium.com/@bms6168"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>&nbsp;
-<a href="https://www.instagram.com/_han_baek/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a><br/>
 
 Hello there!👋 I'm Software Developer using React and TypeScript.👨‍💻<br/>
 
