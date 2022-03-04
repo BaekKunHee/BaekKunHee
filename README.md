@@ -7,8 +7,8 @@ Hello there!👋 I'm Software Developer using React and TypeScript.👨‍💻<b
 
 Absolutely I love to discover all of IT.✨<br/>
 
-I hope the service I develop will help the world.🌏
-I will be with you when we look on the same way.🤝
+I hope the service I develop will help the world.🌏&nbsp;&nbsp;&nbsp;I will be with you when we look on the same way.🤝<br/>
+
 Thank you for coming here.🙏
 <br/><br/>
 
