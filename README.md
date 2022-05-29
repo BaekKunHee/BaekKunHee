@@ -1,13 +1,19 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Han&fontSize=60&fontColor=ffffff&fontAlignY=40&animation=fadeIn)<br/>
-<img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
-<--**My Pet**
+<p align='center'>
+  <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
+   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
+   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
+   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
+   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
+   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
+   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
+</p>                                                                                                      
 
 ### 👇Click Me
 <a href="https://www.linkedin.com/in/han-baek-6724a7217/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
 <a href="https://periwinkle-spade-c8b.notion.site/HAN-BAEK-21c7a57f96cb414fb69347aeeeb06f72"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
 <a href="https://medium.com/@bms6168"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>&nbsp;
 
-Hello there!👋 I'm Software Developer using React and TypeScript.👨‍💻<br/>
+Hello there!👋 I'm Software Developer **Han**👨‍💻<br/>
 
 Absolutely I love to discover all of IT.✨<br/>
 
