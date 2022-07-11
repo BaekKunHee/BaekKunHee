@@ -1,11 +1,5 @@
 <p align='center'>
   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
-   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
-   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
-   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
-   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
-   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
-   <img src="https://github.githubassets.com/images/mona-loading-dark.gif" width="100" height="100"/>
 </p>                                                                                                      
 
 ### 👇Click Me
@@ -24,6 +18,7 @@ Thank you for coming here.🙏
 
 ### 💻Tech Stacks
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/Vue-34eb89?style=flat-square&logo=Vue.js&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp;
