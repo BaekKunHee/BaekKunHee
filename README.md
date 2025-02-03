@@ -3,7 +3,9 @@
 </p>                                                                                                      
 
 ### 👇Click Me
-<a href="https://www.linkedin.com/in/kunhee-baek-6724a7217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=LinkedIn&logoColor=white"/></a>&nbsp;
+<a href="https://www.hanbaek-myungsangbaeks-projects.vercel.app"><img src="https://img.shields.io/badge/Portfoilo-CC2424?style=flat-square&logo=Homepage&logoColor=white"/></a>&nbsp;
+<a href="https://bit.ly/m/han_baek"><img src="https://img.shields.io/badge/BIO Bitly-EE6123?style=flat-square&logo=Bitly&logoColor=white"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/kunhee-baek-6724a7217"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=chainlink&logoColor=white"/></a>&nbsp;
 <a href="https://han-baek.notion.site/HAN-DEV-21c7a57f96cb414fb69347aeeeb06f72"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>&nbsp;
 <a href="https://medium.com/@han.baek"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>&nbsp;
 
