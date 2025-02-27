@@ -9,12 +9,11 @@
 <a target="_blank" href="https://medium.com/@han.baek"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=Medium&logoColor=white"/></a>&nbsp;
 <a target="_blank" href="https://bit.ly/m/developer_bear"><img src="https://img.shields.io/badge/BIO Bitly-EE6123?style=flat-square&logo=Bitly&logoColor=white"/></a>&nbsp;
 
-👋 Hello there! I'm **Han**, a customer-centric Software Developer. 💻  
+👋 Hello there! I’m Han, a passionate Product Hacker who loves experimenting, iterating, and building innovative solutions. 🚀
 
-I love solving problems that truly matter, building great products that enhance people's lives. 🚀  
-For me, software development is about connecting the dots—turning ideas into reality through continuous growth and learning. 🌱  
+I don’t just develop products—I hack growth, optimize experiences, and turn bold ideas into reality. My focus is on solving real problems fast, learning through rapid experimentation, and delivering products that truly make an impact. 💡
 
-I believe that every product I create should make a difference in the world. Let's build something meaningful together. 🤝  
+For me, building great products is about breaking limits, thinking differently, and continuously evolving. Let’s disrupt, innovate, and create something game-changing together! ⚡
 
 Thanks for stopping by! 🙏
 <br/><br/>
