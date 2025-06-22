@@ -34,7 +34,6 @@ Thanks for stopping by! 🙏
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>&nbsp;
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>&nbsp;
-<img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=Amazon Web Services&logoColor=white"/>&nbsp;
 
 ### 👀Experience
 <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp;
